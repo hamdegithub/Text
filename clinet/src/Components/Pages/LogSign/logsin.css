@@ -1,0 +1,43 @@
+.authfy-login {
+  height: 600px;
+  margin: 40px auto 25px;
+  position: relative;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  background-color: #fff;
+  border-radius: 10px;
+ 
+  box-shadow: 0 4px 12px rgba(158, 158, 158, 0.12);
+  border-radius: 8px;
+}
+.slide-home .slick-arrow {
+  z-index: 99;
+  background-color: transparent;
+  border: none;
+  font-size: 45px;
+  position: absolute;
+  top: 50%;
+  outline: none;
+  color: #3b455a;
+  cursor: pointer;
+}
+.slide-home .slick-arrow:hover {
+  color: #fe8402;
+}
+.slide-home .slick-arrow.slick-next {
+  right: 15px;
+}
+.slide-home .slick-arrow.slick-left {
+  left: 15px;
+}
+.hero-padd {
+  padding-top: 150px;
+}
+.padd-text {
+  padding-top: 100px;
+}
+.authfy-login {
+    height: 515px;
+    max-width: 700px;
+  } 
